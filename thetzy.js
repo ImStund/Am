@@ -20,7 +20,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //=================================================//
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/c/Nova Stund Devs'
+global.youtube = 'https://youtube.com/channel/UCO_E_-sQlccD1TEvE3o3bEw'
 global.ig = 'https://www.instagram.com/reel/Cc915M2JRzd/?igshid=YmMyMTA2M2Y='
 global.mygc = 'https://chat.whatsapp.com/FuUo2LrtLzXLib9XDXi9qr'
 global.myweb = 'https://youtube.com/channel/UCO_E_-sQlccD1TEvE3o3bEw'
@@ -40,15 +40,15 @@ global.f4 = 'application/zip'
 global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = '㑒 The last Stund ϟ️' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = '[⫹⫺ -Api Bot 㑒 ️]' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = '𝐏𝐫𝐢𝐝𝐞 - 𝐓𝐳𝐲 ϟ' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = '✆ IPRP - BOT' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = '[✆ IPRP - BOT️]' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = '𝐏𝐫𝐢𝐝𝐞 - Stund ϟ' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6281259533733']
-global.premium = ['6281259533733']
-global.packname = 'Last Stund ϟ'
-global.ownerr = ['㑒 The Last Stund ϟ']
+global.owner = ['6285725013199']
+global.premium = ['6285725013199']
+global.packname = 'Vanda ϟ'
+global.ownerr = ['✆ IPRP - BOT']
 global.author = '[⫹⫺ - 㑒 Lord Stund ϟ]'
 global.sessionName = './sessionye/paktzy'
 global.prefa = ['','!','.',',','🐤','🗿']
@@ -74,10 +74,10 @@ global.limitawal = {
    potionawal: 1
 }
 //=================================================//
-global.thumb = { url: 'https://telegra.ph/file/c2e84a4776ee6c47aa3a5.jpg' }
+global.thumb = { url: 'https://telegra.ph/file/045c439d0c3b398fa82b5.jpg' }
 global.visoka = { url: 'https://a.uguu.se/fVFNCwix.mp4' }
 global.menuimg = { url: 'https://a.uguu.se/fVFNCwix.mp4' }
-global.zy = { url: 'https://telegra.ph/file/842cc1a7658a1c2b94c0c.jpg' }
+global.zy = { url: 'https://telegra.ph/file/045c439d0c3b398fa82b5.jpg' }
 global.log0 = fs.readFileSync("./basetzy/gambarnye/thezyren.jpg")
 //=================================================//
 let file = require.resolve(__filename)
